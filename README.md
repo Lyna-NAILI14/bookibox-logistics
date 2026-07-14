@@ -239,7 +239,7 @@ L'opérateur peut scanner un ISBN afin de récupérer automatiquement les inform
 ---
 
 ### Prévisualisation
-![](images/scanner/scanner-preview .png)
+![](images/scanner/scanner-preview.png)
 
 Les données récupérées sont affichées avant validation afin de permettre leur correction si nécessaire.
 
