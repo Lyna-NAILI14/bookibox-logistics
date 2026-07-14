@@ -311,13 +311,13 @@ Les développements étaient organisés en sprints avec un suivi quotidien sur J
 
 ## Sprint 3 — Stock & Scanner
 
-![](images/agile/sprint-3-stock-and-scan.png)
+![](images/agile/sprint-3-backlog.png)
 
 ---
 
 ## Sprints 4 & 5 — Clients & Picking
 
-![](images/agile/sprint-4-5-backlog.png)
+![](images/agile/sprint4-5-backlog.png)
 
 ---
 
